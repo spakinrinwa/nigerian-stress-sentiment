@@ -1,0 +1,22 @@
+{
+  "title": "Sentiment analysis of multilingual and code-switched stress expressions among Nigerian university students",
+  "upload_type": "software",
+  "description": "Inference and analysis code for a paired evaluation of sentiment models on original and English-interpreted stress expressions from Nigerian university students. The questionnaire texts are not included; they are available on request under the conditions stated in the article.",
+  "creators": [
+    {
+      "name": "Akinrinwa, Sadura Priscilla",
+      "orcid": "0000-0002-0775-1128",
+      "affiliation": "Federal University of Technology, Akure; IIS Biobizkaia Health Research Institute"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "multilingual sentiment analysis",
+    "code-switching",
+    "Nigerian Pidgin",
+    "Yoruba",
+    "translation",
+    "large language models"
+  ],
+  "notes": "Analysis supported by the Mujeres por Africa Foundation through the Science by Women Fellowship."
+}

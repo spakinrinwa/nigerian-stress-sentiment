@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the article and this software archive."
-title: "Code for: Different labels for the same expression? Representation sensitivity of sentiment models on original and English-interpreted stress expressions from Nigerian university students"
+title: "Sentiment analysis of multilingual and code-switched stress expressions among Nigerian university students"
 authors:
   - family-names: Akinrinwa
     given-names: Sadura Priscilla
@@ -9,5 +9,5 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-06"
 license: MIT
-repository-code: "https://github.com/spakinrinwa/nigerian-stress-sentiment"
-# doi: "10.5281/zenodo.[ID]"   # add after the first Zenodo release
+repository-code: "https://github.com/[USER]/nigerian-stress-sentiment"
+doi: "10.5281/zenodo.24014244"

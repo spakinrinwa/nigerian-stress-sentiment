@@ -1,4 +1,6 @@
-# Different labels for the same expression?
+# Sentiment analysis of multilingual and code-switched stress expressions among Nigerian university students
+
+[![DOI](https://zenodo.org/badge/1448299610.svg)](https://doi.org/10.5281/zenodo.24014244)
 
 Code for the article *Different labels for the same expression? Representation sensitivity of sentiment models on
 original and English-interpreted stress expressions from Nigerian university students* (Akinrinwa, submitted to
