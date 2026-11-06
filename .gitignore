@@ -1,0 +1,7 @@
+# Restricted data never leave the author's machine
+data/restricted/*
+!data/restricted/.gitkeep
+outputs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
